@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\18-ucim-se-2021-02-13\DU-4-01-ClassRoom\stuff\TheClassRoom\obj\Debug\TheClassRoom.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\18-ucim-se-2021-02-13\DU-4-01-ClassRoom\stuff\TheClassRoom\obj\Debug\TheClassRoom.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\18-ucim-se-2021-02-13\DU-4-01-ClassRoom\stuff\TheClassRoom\bin\Debug\TheClassRoom.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\18-ucim-se-2021-02-13\DU-4-01-ClassRoom\stuff\TheClassRoom\bin\Debug\TheClassRoom.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\18-ucim-se-2021-02-13\DU-4-01-ClassRoom\stuff\TheClassRoom\bin\Debug\TheClassRoom.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\18-ucim-se-2021-02-13\DU-4-01-ClassRoom\stuff\TheClassRoom\obj\Debug\TheClassRoom.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\18-ucim-se-2021-02-13\DU-4-01-ClassRoom\stuff\TheClassRoom\obj\Debug\TheClassRoom.pdb

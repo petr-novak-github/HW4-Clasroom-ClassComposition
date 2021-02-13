@@ -1,0 +1,34 @@
+2021-02-13
+co resim v clasroomu
+- datova slozka je zde pole
+- jak nastavit getter a setter u pole?
+- addStudent jak ??? pole ..
+- removeStudent jak?? pole ..
+- furt pole ... jak vytvorit instanci objetku jehoz jedna datova slozka je pole 
+- zjednodusim to na kazdy ucitel ma jednu tridu
+- sem zjistil z dokumentace ze bunky pole jsou u numerickych typu nastavene na 0, u referencnich typu nastaveny na null
+- takze kdyz chci pridat stdenta do pole, tak budu prochayet to pole treba forem a kdyz narazim na null, tak tam ulozim toho studenta, ktereho chci ulozit
+- vlastnost length udava pocet prvku pole, ne max index, takze to same cislo, co zadavam pri deklaraci
+
+ int[] a1 = new int[5];
+            Console.WriteLine(a1.Length);
+            a1[0] = 1;
+            a1[1] = 2;
+            a1[2] = 3;
+            a1[3] = 4;
+            a1[4] = 5;
+          //  a1[5] = 6; -tohle uz hodi chybu ya behu
+          // takze pri vytvareni pole sem dal petku a ta ynamena pocet prvku pole,
+          // index je od 0, takze max index je 4
+
+pomoci null se da testovat jestli je bunka prazdna
+
+int pocetPrvkuPoleStudents = poleStudentuTridy1.Length;
+
+            for (int i = 0; i < pocetPrvkuPoleStudents; i++)
+            {
+                if (poleStudentuTridy1[i] == null)
+                {
+                    Console.WriteLine($"bunka pole i {i} je prazdna");
+                }
+            }
